@@ -4,7 +4,6 @@ const history = [];
 
 document.getElementById("calcBtn").addEventListener("click", calculateSpend);
 
-
 function calculateSpend() {
   const name = document.getElementById("studentName").value;
   const fareText = document.getElementById("taxiFare").value;
