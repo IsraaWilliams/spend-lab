@@ -2,6 +2,7 @@ const WEEKS_PER_MONTH = 4;
 const MONTHLY_BUDGET = 1500;
 const history = [];
 
+
 document.getElementById("calcBtn").addEventListener("click", calculateSpend);
 
 function calculateSpend() {
