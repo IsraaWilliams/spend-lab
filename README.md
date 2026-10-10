@@ -3,6 +3,7 @@
 **Student Name:** Israa Williams
 **Student Number:** ST10501763
 **Module:** WEDE5020 – Web Development 
+**Github Link** https://github.com/IsraaWilliams/spend-lab/tree/main
 **Learning Unit:** LU6 Theme 1: JavaScript Basics – Data Types
 
 ## Overview
